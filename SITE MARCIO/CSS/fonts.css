@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "Futura";
+    font-weight: 200;
+    font-display: swap;
+    src: url("/_ui/responsive/common/fonts/futura/774926/1921b76a-df9e-4cc6-ab61-03f57c2f2454.eot?#iefix");
+
+    src:
+            url("/_ui/responsive/common/fonts/futura/774926/1921b76a-df9e-4cc6-ab61-03f57c2f2454.eot?#iefix") format("eot"),
+            url("/_ui/responsive/common/fonts/futura/774926/b5b296d5-bbbc-4936-828d-ff0d8c163a89.woff") format("woff"),
+            /*url("/Users/david.carrus/gucci-countryselector/_ui/responsive/common/fonts/futura/774926/b5b296d5-bbbc-4936-828d-ff0d8c163a89.woff") format("woff"),*/
+            url("/_ui/responsive/common/fonts/futura/774926/dacb7ec9-508a-4a20-a11a-e1c71ad653b8.ttf") format("truetype")
+}
