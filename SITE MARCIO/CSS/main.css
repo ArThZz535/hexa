@@ -194,7 +194,7 @@
 
 /*Início*/
 
-.btnF {
+.btnFiji {
     border: 15%;
     border-radius: 0.626rem;
     padding: 0.626rem;
@@ -206,11 +206,11 @@
     transition: background .3s;
 }
 
-.btnF:hover {
+.btnFiji:hover {
     background-color: var(--cor-hover-button);
 }
 
-.btnF:active {
+.btnFiji:active {
     color: white;
     background-color: var(--cor-secundaria-button);
 }
